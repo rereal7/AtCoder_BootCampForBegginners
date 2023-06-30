@@ -1,2 +1,2 @@
-# AtCoder_BootCampForBegginners
+# AtCoder_BootCampForBeginners
 ABC精進めも
